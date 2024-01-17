@@ -65,11 +65,15 @@ body {
     color: #FFF;
     text-decoration: none;
     font-weight: 700;
+    display: flex;
+}
+.logo img {
+    margin-right: 5px;
 }
 
 .navbar a {
     font-size: 1.5rem;
-    color: #fff;
+    color: yellow;
     text-decoration: none;
     font-weight: 500;
     margin-left: 2.5rem;
